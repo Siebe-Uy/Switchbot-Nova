@@ -2,7 +2,7 @@
   <b>Nova</b>
 </h1>
 
-Heya! I'm Nova, a student from Belgium and the developer of Switchbot.
+Heya! I'm Siebe, a software engineer from Belgium.
 
 <br>
 
@@ -22,10 +22,10 @@ Heya! I'm Nova, a student from Belgium and the developer of Switchbot.
 class Nova():
     
   def __init__(self):
-    self.name = "Nova";
+    self.name = "Siebe";
     self.username = "Switchbot-Nova";
     self.location = "Bruges, Belgium";
-    self.web = "https://switchbot.dev";
+    self.web = "https://siebe.dev";
   
   def __str__(self):
     return self.name
@@ -44,11 +44,11 @@ if __name__ == '__main__':
 
 <br/>
 <p align="left">
-  <a href="https://switchbot.dev/">
+  <a href="https://siebe.dev/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=switchbot-nova&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=switchbot-nova&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
 
-[![Nova's Activity Graph](https://activity-graph.herokuapp.com/graph?username=switchbot-nova&custom_title=Nova's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://switchbot.dev)
+[![Siebe's Activity Graph](https://activity-graph.herokuapp.com/graph?username=switchbot-nova&custom_title=Nova's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://switchbot.dev)
