@@ -19,7 +19,7 @@ Heya! I'm Siebe Uyttersprot, a software engineer from Belgium.
 </p>
 
 ```python
-class Nova():
+class Siebe():
     
   def __init__(self):
     self.name = "Siebe";
@@ -31,14 +31,8 @@ class Nova():
     return self.name
 
 if __name__ == '__main__':
-    me = Nova()
+    me = Siebe()
 ```
-
-<div align="center">
-  <a href="https://open.spotify.com/user/1139710201">
-    <img src="https://spotify-readme-switchbot-nova.vercel.app/now-playing">
-  </a>
-</div>
 
 ## My Statistics
 
@@ -50,5 +44,3 @@ if __name__ == '__main__':
   </a>
 </p>
 <br>
-
-[![Siebe's Activity Graph](https://activity-graph.herokuapp.com/graph?username=siebe-uy&custom_title=Siebe's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://siebe.dev)
